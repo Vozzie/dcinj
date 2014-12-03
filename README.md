@@ -1,6 +1,6 @@
 # README #
 
-DC Injector
+DLL injection library
 
 ### What is this repository for? ###
 
@@ -21,7 +21,7 @@ DC Injector
 >
 > [x64 Calling convention (stack) and varargs](http://stackoverflow.com/questions/12083810/x64-calling-convention-stack-and-varargs)
 
-* For project configuration, see the readme in de solution directory.
+* For project configuration, see the readme in the 2010 solution directory. 
 * There is a test executable project and a test dll project.
  
 ### Contribution guidelines ###
@@ -33,8 +33,3 @@ DC Injector
 * Other guidelines
 > [Coding Style Conventions](http://msdn.microsoft.com/en-us/library/windows/desktop/aa378932%28v=vs.85%29.aspx)
 
-
-### Who do I talk to? ###
-
-* Other community or team contact
-* Yourself
