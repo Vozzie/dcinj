@@ -41,3 +41,26 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#my own files
+
+
+*.sdf
+*.suo
+*.user
+*.pdb
+*.ilk
+*.ipch
+*.exp
+*.ncb
+*.bsc
+*.manifest
+*.cache
+*.FileListAbsolute.txt
+*.vshost.exe
+*.metagen
+
+dcinj/2005/Build/
+dcinj/2008/Build/
+dcinj/2010/Build/
+Debug/

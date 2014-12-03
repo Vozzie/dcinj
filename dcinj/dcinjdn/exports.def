@@ -1,0 +1,8 @@
+LIBRARY DCInjDn
+EXPORTS
+	TypeLoad
+	TypeUnload
+	TypeCommand
+	TypeCount
+	TypeGetItem
+	

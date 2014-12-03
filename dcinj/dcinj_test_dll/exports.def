@@ -1,0 +1,4 @@
+LIBRARY dcinj_test_dll
+EXPORTS
+	CallMe 
+	CallMeEx 
