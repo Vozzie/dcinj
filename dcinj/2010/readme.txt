@@ -34,6 +34,3 @@ http://www.vbib.be/index.php?/tutorials/article/57-mix-assembly-with-managed/ bu
 
 ----
 
-TODO:
-	Make behavior of the assembly procedures their return value between 64 and 32 bit the same.
-	Finish comments
